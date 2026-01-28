@@ -1,0 +1,11 @@
+# .gitignore
+*.nwd
+*.nwf
+*.nwc
+*.dwg
+*.ifc
+*.dgn
+*.log
+temp_filelist.txt
+master_list.txt
+NavisWork_BATCH/
