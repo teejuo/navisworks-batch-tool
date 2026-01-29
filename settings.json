@@ -5,6 +5,8 @@
     "// MODE": "'All' (scans every folder) OR 'Selected' (only folders in list)",
     "Mode": "All",
 
+    
+
     "// RECURSIVE": "true = Include subfolders. false = Top level files only.",
     "RecursiveSearch": false,
 
@@ -16,8 +18,9 @@
     ],
 
     "SelectedFolders": [
-        "Arkkitehti",
-        "Rakenne",
-        "LVI"
+        "ExampleFolder1",
+        "ExampleFolder2",
+        "ExampleFolder3"
     ]
+
 }
