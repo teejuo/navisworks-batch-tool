@@ -1,0 +1,23 @@
+{
+    "MasterModelName": "MASTER_MODEL.nwd",
+    "TemplateName": "_TEMPLATE.nwd",
+
+    "// MODE": "'All' (scans every folder) OR 'Selected' (only folders in list)",
+    "Mode": "All",
+
+    "// RECURSIVE": "true = Include subfolders. false = Top level files only.",
+    "RecursiveSearch": false,
+
+    "FileExtensions": [
+        "*.dwg",
+        "*.ifc",
+        "*.dgn",
+        "*.nwd"
+    ],
+
+    "SelectedFolders": [
+        "Arkkitehti",
+        "Rakenne",
+        "LVI"
+    ]
+}
